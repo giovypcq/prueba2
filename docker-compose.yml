@@ -4,14 +4,14 @@ services:
   multiapp:
     image: natymony/examultiapp:latest
     build:
-      context: https://github.com/natymony/MultiWeb.git
-      dockerfile: Dockerfile
+      context: .
+      dockerfile: multiapp/Dockerfile
 
 
   webapi:
     image: natymony/exawebapi:latest
     build:
-      context: https://github.com/natymony/MultiApi.git
-      dockerfile: Dockerfile
+      context: .
+      dockerfile: webapi/Dockerfile
 
 
