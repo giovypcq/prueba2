@@ -5,13 +5,15 @@ services:
     image: natymony/examultiapp:latest
     build:
       context: .
-      dockerfile: multiapp/Dockerfile
+      dockerfile: MultiApp/Dockerfile
 
 
   webapi:
     image: natymony/exawebapi:latest
     build:
       context: .
-      dockerfile: webapi/Dockerfile
+      dockerfile: WebApi/Dockerfile
+ 
+
 
 
