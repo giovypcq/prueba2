@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "kEXo9KmLuokvY1wTm75VHDN3APqGkPCE8vBzfcY6YzzgFq21439uROv7oLLSvAjGvKi9XMo8IHgwuSZlLNkErg==",
+  "dgSpecHash": "CnhU0uAEIYZBfUDI2zPylsDhMSz5RXbR3bkQdbFo28SL+7IiuUuzGNxWaFGteGXZpwbhEnbAN9sJRjtkZ0uWMw==",
   "success": true,
-  "projectFilePath": "C:\\Mis Documentos\\maestria\\Multiapp\\MultiApp\\MultiApp.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "D:\\MAESTRIA\\automatizacion\\Examen1\\MultiApp\\MultiApp\\MultiApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\natym\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.17.0\\microsoft.visualstudio.azure.containers.tools.targets.1.17.0.nupkg.sha512",
+    "C:\\Users\\natym\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
   "logs": []
 }
